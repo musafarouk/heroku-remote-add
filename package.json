@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.15.3",
     "lightbox2": "^2.9.0",
-    "mime": "~1.2.7",
+    "mime": "^1.2.7",
     "morgan": "^1.8.2"
   }
 }
